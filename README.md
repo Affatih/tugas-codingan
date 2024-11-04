@@ -1,5 +1,4 @@
-#aoenvuanoevn
-biabhvakdbvaj
+afatih zanjabilah.txt
 
 ## foto
-![output] (discord.png)
+![output](Discord.png)
